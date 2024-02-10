@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather City Info</string>
+    <string name="WEATHER_API_KEY">8e5eac5f9be345ebbd4101118230711</string>
+    <string name="OPEN_WEATHER_API_KEY">2668d7d3c92ea6b00338bec7b055fa73</string>
+    <string name="agra">Agra</string>
+    <string name="beijing">Beijing</string>
+    <string name="Barcelona">Barcelona</string>
+    <string name="sydney">Sydney</string>
+    <string name="paris">Paris</string>
+    <string name="new_york">New York</string>
+    <string name="london">London</string>
+    <string name="rio_de_janeiro">Rio De Janeiro</string>
+    <string name="moscow">Moscow</string>
+    <string name="rome">Rome</string>
+
+</resources>
