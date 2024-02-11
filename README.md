@@ -25,10 +25,25 @@ Screenshots:
 
 # Installation
 
-Clone the repository: git clone https://github.com/yourusername/WeatherCityInfo.git
+Clone the repository: git clone https://github.com/vakiliali79/Weather-City-Info-Android.git
 
 Open the project in Android Studio.
 
 Build and run the application on your Android device or emulator.
 
 Feel free to contribute, report issues, or suggest improvements. Your feedback is valuable!
+
+## Screenshots:
+
+- **Screenshot 1**:
+
+  ![Original Image](screenshots/1.jpg)
+
+- **Screenshot 2**:
+
+  ![Original Image](screenshots/2.jpg)
+
+- **Screenshot 3**:
+
+  ![Original Image](screenshots/3.jpg)
+
