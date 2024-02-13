@@ -26,7 +26,9 @@ Screenshots:
 
 # Installation
 
+
 [Download APK](https://raw.githubusercontent.com/vakiliali79/Weather-City-Info-Android/master/Weather-City-Info.apk)
+
 
 Clone the repository: git clone https://github.com/vakiliali79/Weather-City-Info-Android.git
 
