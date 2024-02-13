@@ -12,6 +12,10 @@ Visual Representation: Understand the probability of precipitation through visua
 
 User-Friendly Interface: Intuitive design for seamless navigation and a pleasant user experience.
 
+## Installation:
+
+[Download APK](https://raw.githubusercontent.com/vakiliali79/Weather-City-Info-Android/master/Weather-City-Info.apk)
+
 # How to Use
 
 Launch the app and select the desired city.
